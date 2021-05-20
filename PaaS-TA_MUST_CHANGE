@@ -1,0 +1,8 @@
+MUST CHANGE src/code.cloudfoundry.org/silk/vendor
+
+copy src/github.com/lib/ 
+  to src/code.cloudfoundry.org/silk/vendor/github.com/lib/pq/
+
+copy src/github.com/go-sql-driver/
+  to src/code.cloudfoundry.org/silk/vendor/github.com/go-sql-driver/mysql/
+
