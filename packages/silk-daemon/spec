@@ -55,6 +55,7 @@ files:
   - code.cloudfoundry.org/silk/vendor/github.com/hashicorp/go-multierror/vendor/github.com/hashicorp/errwrap/*.go # gosub
   - code.cloudfoundry.org/silk/vendor/github.com/lib/pq/*.go # gosub
   - code.cloudfoundry.org/silk/vendor/github.com/lib/pq/oid/*.go # gosub
+  - code.cloudfoundry.org/silk/vendor/github.com/lib/pq/scram/*.go # gosub
   - code.cloudfoundry.org/silk/vendor/github.com/nu7hatch/gouuid/*.go # gosub
   - code.cloudfoundry.org/silk/vendor/github.com/tedsuo/ifrit/*.go # gosub
   - code.cloudfoundry.org/silk/vendor/github.com/tedsuo/ifrit/grouper/*.go # gosub
